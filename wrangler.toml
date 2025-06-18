@@ -20,4 +20,4 @@ crons = [ "*/10 * * * *" ]
 
 # SERVER_URL should match with the final MCP worker url (dev or custom domain)
 [vars]
-SERVER_URL = "https://swap-example-mcp.NAMESPACE.workers.dev/mcp" # Keep the last /mcp for the registration process
+SERVER_URL = "https://swap-example-mcp.nestor-ea1.workers.dev/mcp" # Keep the last /mcp for the registration process
